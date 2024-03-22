@@ -12,3 +12,5 @@ age3=20
 echo The age is $age3
 
 
+age4=20
+echo The age is $age4
