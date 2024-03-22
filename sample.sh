@@ -7,3 +7,10 @@ echo The age is $age
 
 age2=20
 echo The age is $age2
+
+age3=20
+echo The age is $age3
+
+
+age4=20
+echo The age is $age4
